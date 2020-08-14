@@ -1,0 +1,7 @@
+name: CreativeControl
+version: ${project.version}
+main: stylowy.creativecontrol.CreativeControl
+api-version: 1.13
+authors: [Stylowy]
+description: Plugin that controls players who uses Creative Gamemode
+website: StylowaMC.pl
