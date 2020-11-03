@@ -17,7 +17,7 @@ public class KSGH_2 {
                 dataFolder.mkdir();
             }
 
-            File saveTo = new File(dataFolder, "data.txt");
+            File saveTo = new File(dataFolder, "killedskeletons.txt");
             if (!saveTo.exists())
             {
                 saveTo.createNewFile();
